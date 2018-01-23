@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:dyn-shared-state.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:static-with-global-state/static-with-global-state.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:dynamic-using-static/dynamic-using-static.xcodeproj">
+   </FileRef>
+</Workspace>
